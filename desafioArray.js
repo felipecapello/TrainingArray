@@ -1,3 +1,4 @@
+// Feito vendo com pequena ajuda no video
 const filaDeAtendimento = []
 do {
     let pacientes = ""
